@@ -221,26 +221,24 @@ $ python3 unittest -m tests/test_console.py
 ---
 File Name|Task Name|Task Description
 ---|---|---
-[AirBnB_clone_v2](https://github.com/monoprosito/AirBnB_clone_v2)|0. Fork me if you can!|Repository for project AirBnB-clone MySQL
-[AirBnB_clone_v2](https://github.com/monoprosito/AirBnB_clone_v2/tree/master/tests)|1. Bug free!|unittest files
-[console.py](https://github.com/monoprosito/AirBnB_clone_v2/blob/master/console.py), [models/](https://github.com/monoprosito/AirBnB_clone_v2/tree/master/models), [tests/](https://github.com/monoprosito/AirBnB_clone_v2/tree/master/tests)|2. Console improvements|Update the def do_create(self, arg): function of your command interpreter (console.py) to allow for object creation with given parameters
-[setup_mysql_dev.sql](https://github.com/monoprosito/AirBnB_clone_v2/blob/master/setup_mysql_dev.sql)|3. MySQL setup development|Write a script that prepares a MySQL server for the project
-[setup_mysql_test.sql](https://github.com/monoprosito/AirBnB_clone_v2/blob/master/setup_mysql_test.sql)|4. MySQL setup test|Write a script that prepares a MySQL server for the project
-[models/engine/file_storage.py](https://github.com/monoprosito/AirBnB_clone_v2/blob/master/models/engine/file_storage.py)|5. Delete object|Update FileStorage: (models/engine/file_storage.py)
-[models/base_model.py](https://github.com/monoprosito/AirBnB_clone_v2/blob/master/models/base_model.py), [models/city.py](https://github.com/monoprosito/AirBnB_clone_v2/blob/master/models/city.py), [models/state.py](https://github.com/monoprosito/AirBnB_clone_v2/blob/master/models/state.py), [models/engine/db_storage.py](https://github.com/monoprosito/AirBnB_clone_v2/blob/master/models/engine/db_storage.py), [models/__init__.py](https://github.com/monoprosito/AirBnB_clone_v2/blob/master/models/__init__.py)|6. DBStorage - States and Cities|It’s time to change your storage engine and use SQLAlchemy
-[models/user.py](https://github.com/monoprosito/AirBnB_clone_v2/blob/master/models/user.py)|7. DBStorage - User|Update User: (models/user.py)
-[models/place.py](https://github.com/monoprosito/AirBnB_clone_v2/blob/master/models/place.py), [models/user.py](https://github.com/monoprosito/AirBnB_clone_v2/blob/master/models/user.py), [models/city.py](https://github.com/monoprosito/AirBnB_clone_v2/blob/master/models/city.py)|8. DBStorage - Place|Update Place: (models/place.py)
-[models/review.py](https://github.com/monoprosito/AirBnB_clone_v2/blob/master/models/review.py), [models/user.py](https://github.com/monoprosito/AirBnB_clone_v2/blob/master/models/user.py), [models/place.py](https://github.com/monoprosito/AirBnB_clone_v2/blob/master/models/place.py)|9. DBStorage - Review|Update Review: (models/review.py)
-[models/amenity.py](https://github.com/monoprosito/AirBnB_clone_v2/blob/master/models/amenity.py), [models/place.py](https://github.com/monoprosito/AirBnB_clone_v2/blob/master/models/place.py)|10. DBStorage - Amenity... and BOOM!|Update Amenity: (models/amenity.py)
+[AirBnB_clone_v2](https://github.com/Emeralda0144/AirBnB_clone_v2)|0. Fork me if you can!|Repository for project AirBnB-clone MySQL
+[AirBnB_clone_v2](https://github.com/Emeralda0144/AirBnB_clone_v2/tree/master/tests)|1. Bug free!|unittest files
+[console.py](https://github.com/Emeralda0144/AirBnB_clone_v2/blob/master/console.py), [models/](https://github.com/Emeralda0144/AirBnB_clone_v2/tree/master/models), [tests/](https://github.com/Emeralda0144/AirBnB_clone_v2/tree/master/tests)|2. Console improvements|Update the def do_create(self, arg): function of your command interpreter (console.py) to allow for object creation with given parameters
+[setup_mysql_dev.sql](https://github.com/Emeralda0144/AirBnB_clone_v2/blob/master/setup_mysql_dev.sql)|3. MySQL setup development|Write a script that prepares a MySQL server for the project
+[setup_mysql_test.sql](https://github.com/Emeralda0144/AirBnB_clone_v2/blob/master/setup_mysql_test.sql)|4. MySQL setup test|Write a script that prepares a MySQL server for the project
+[models/engine/file_storage.py](https://github.com/Emeralda0144/AirBnB_clone_v2/blob/master/models/engine/file_storage.py)|5. Delete object|Update FileStorage: (models/engine/file_storage.py)
+[models/base_model.py](https://github.com/Emeralda0144/AirBnB_clone_v2/blob/master/models/base_model.py), [models/city.py](https://github.com/Emeralda0144/AirBnB_clone_v2/blob/master/models/city.py), [models/state.py](https://github.com/Emeralda0144/AirBnB_clone_v2/blob/master/models/state.py), [models/engine/db_storage.py](https://github.com/Emeralda0144/AirBnB_clone_v2/blob/master/models/engine/db_storage.py), [models/__init__.py](https://github.com/Emeralda0144/AirBnB_clone_v2/blob/master/models/__init__.py)|6. DBStorage - States and Cities|It’s time to change your storage engine and use SQLAlchemy
+[models/user.py](https://github.com/Emeralda0144/AirBnB_clone_v2/blob/master/models/user.py)|7. DBStorage - User|Update User: (models/user.py)
+[models/place.py](https://github.com/Emeralda0144/AirBnB_clone_v2/blob/master/models/place.py), [models/user.py](https://github.com/Emeralda0144/AirBnB_clone_v2/blob/master/models/user.py), [models/city.py](https://github.com/Emeralda0144/AirBnB_clone_v2/blob/master/models/city.py)|8. DBStorage - Place|Update Place: (models/place.py)
+[models/review.py](https://github.com/Emeralda0144/AirBnB_clone_v2/blob/master/models/review.py), [models/user.py](https://github.com/Emeralda0144/AirBnB_clone_v2/blob/master/models/user.py), [models/place.py](https://github.com/Emeralda0144/AirBnB_clone_v2/blob/master/models/place.py)|9. DBStorage - Review|Update Review: (models/review.py)
+[models/amenity.py](https://github.com/Emeralda0144/AirBnB_clone_v2/blob/master/models/amenity.py), [models/place.py](https://github.com/Emeralda0144/AirBnB_clone_v2/blob/master/models/place.py)|10. DBStorage - Amenity... and BOOM!|Update Amenity: (models/amenity.py)
 
 
 ---
 ## Authors
 
-- Santiago Arboleda L. [@msarboledal](https://twitter.com/msarboledal)
-- Juan David Restrepo Z. [@jdrestre](https://twitter.com/jdrestre)
-- Miranda Evans miranda.r.evans@gmail.com
-- Kevin Yook kevin.yook@holbertonschool.com
+- Onyinyechi Peace Chibuko [email](onyinyechicp@gmail.com)
+- Trynos Mzondo
 
 
 
