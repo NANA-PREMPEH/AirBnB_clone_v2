@@ -8,8 +8,8 @@ from datetime import datetime
 import os
 
 
-env.hosts = ['ubuntu@35.196.3.110', 'ubuntu@34.74.150.12']
-# env.hosts = ['57ad0975975c@f706bb2c.hbtn-cod.io']
+env.hosts = ['ubuntu@44.192.68.9', 'ubuntu@35.174.208.90']
+
 
 
 def do_deploy(archive_path):
